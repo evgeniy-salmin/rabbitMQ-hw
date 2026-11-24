@@ -67,6 +67,8 @@ $ rabbitmqadmin get queue='hello'
 
 <img width="1005" height="933" alt="image" src="https://github.com/user-attachments/assets/084bd98a-5064-45cb-9b5e-7272f9023019" />
 
+<img width="1229" height="114" alt="image" src="https://github.com/user-attachments/assets/27e913d9-6571-4d03-8fc7-1419d7498e49" />
+
 
 
 ---
