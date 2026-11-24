@@ -23,6 +23,9 @@ $ pip install pika
 Для закрепления материала можете попробовать модифицировать скрипты, чтобы поменять название очереди и отправляемое сообщение.
 
 ### Решение 2
+<img width="1920" height="952" alt="image" src="https://github.com/user-attachments/assets/4bfafa04-6451-4c89-b001-a9d9a412ab6c" />
+
+<img width="301" height="64" alt="image" src="https://github.com/user-attachments/assets/2e311073-f004-4ac1-8bb9-42c08c617407" />
 
 ---
 ### Задание 3. Подготовка HA кластера
@@ -50,3 +53,5 @@ $ rabbitmqadmin get queue='hello'
 Приложите скриншот результата работы второго скрипта.
 
 ### Решение 3
+
+---
