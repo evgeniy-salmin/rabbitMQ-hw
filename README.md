@@ -53,5 +53,17 @@ $ rabbitmqadmin get queue='hello'
 Приложите скриншот результата работы второго скрипта.
 
 ### Решение 3
+<img width="922" height="933" alt="image" src="https://github.com/user-attachments/assets/aa261cd2-daa1-47f6-af36-2e24e77bc274" />
+
+<img width="725" height="491" alt="image" src="https://github.com/user-attachments/assets/8e2fecd5-d632-486d-b62f-f6aaf4b65824" />
+
+<img width="1290" height="910" alt="image" src="https://github.com/user-attachments/assets/39dfd853-020f-44c6-9b3e-fed77733b65c" />
+
+<img width="981" height="91" alt="image" src="https://github.com/user-attachments/assets/a80a0f05-6102-4ffa-9fb9-9555956fffed" />
+
+<img width="975" height="96" alt="image" src="https://github.com/user-attachments/assets/e3a7d708-633f-45b2-934b-ff8613c67e69" />
+
+
+
 
 ---
